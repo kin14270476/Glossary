@@ -1,6 +1,16 @@
 # Glossary
 ## Programming
 ### Algorithm
-### Procedural Paradigms
-### Object-Orientated Paradigms
-### Event-driven Paradigms
+
+Algorithm 
+### Programing Paradigms
+#### Procedural Paradigms
+#### Object-Orientated Paradigms
+#### Event-driven Paradigms
+### Debugging
+## Professional Practice
+###
+## Computer System Architecture
+###
+## Software Lifecycle
+### 
