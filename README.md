@@ -17,11 +17,16 @@ There serveral steps in programing application:
 5.
 ### Programing Paradigms
 #### Procedural Paradigms
-Procedural Paradigms is a way of programing in which it can make decision depending on the situation to go to a different line in the program. It also know as procedural proggramming.
+Procedural paradigms is a type of programming which has the code excuted in a linear sequence. A key feature of procedual paradigms is that you can separte functions from your code into self contained procedures that will do a certain task as long as it has the corect input and output. Procedures can easily be transfered into another project due to them being self contained. Ussaly procedural paradigms are made up of mulitple procedures which are called from the main section of code. Procedural paradigms are also know as procedural programming.
 #### Object-Orientated Paradigms
-Object-orientated paradigms is a way of programing in which code stored inside of object which can be call muiltple times. The a section of code in object is called a method. These object will have properties attached to them which effect how they act. To creating a object requires a class which has proerties 
-#### Event-driven Paradigms
-Event-driven paradigms is a way of programing in which code is excuted when certain event happen like a keyboard being pressed or after certain amount has passed. It does this by haveing a listener for the event and when it is activated it will call a event handler which will  function and excute it. Event-driven paradigms are mainly used in GUI(graphical user interface)programs as each of the buttons would be set as listener.
+Object-orientated paradigms is a way of programming that uses objects which contains properties and can communicate with other objects. Object can communicate with each other through calling methods of object which act as functions. Class are templates for a spefic object which can make muiltple simlar objects. Class can transfer properties to another class or object through inheritance in which a base class called a parent whill copy over selected properties over to a child. Object-orientated paradigms are also know as object-oritated programming.
+#### Event-Driven Paradigms
+Event-driven paradigms is a way programing which focus on events which is broken up into event listener and event handler. An event listener is a loop that is constantly checking to see if something has happened such as key being pressed or a varible being at certain value and if it has happend it will call an apropate event handler. An event handler is code that will be excuted when a certain event happens so for example if a H key was pressed, program would display the letter h. Event-driven paradigms are also know as event-driven programming.
+### Relationship
+#### Variables
+All three types of paradigms uses variables in different ways. Event-driven uses variables to be used in event lisener as some lisener are waiting for the variable to reach a certain value before triggering. Object-orientated uses variables in object and class to values that can be access by each other as long they have the correct access. Procedural can use procedures to do caluation on variable which will be used later on in the code. 
+#### Loops
+All three types of paradigms uses loops in different ways. Event-driven use them in event listener so that they can constainly keep checking if an event happens. Object-Orientated use them in object to repeat task until a condition is met. When procedural uses loops it is normaly turn them into a procedure so that you can call it instead of having to create multiple loops.
 ### Debugging
 ## Professional Practice
 ###
