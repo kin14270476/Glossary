@@ -1,7 +1,7 @@
 # Glossary
 ## Programming
 ### Algorithm
-An algorithm in programming is a way of showing the logic behind the program in which you describe each step as a clear and unambiguous instruction. An algorithm should not be written in a programming language, instead it can be written in pseudo code or a flowchart so that the logic of the algorithm can be transferred to any programming language. Algorithms must have input or otherwise it will only give one answer as calculation will always use the same numbers. Algorithms can be shown through flowcharts to show their logic. Algorithms are used to help spot any errors in your logic so that it doesn't have to be corrected when programming.
+An algorithm in programming is a way of showing the logic behind the program in which you describe each step as a clear and unambiguous sequance of instructions. An algorithm should not be written in a programming language, instead it can be written in pseudo code or a flowchart so that the logic of the algorithm can be transferred to any programming language. Algorithms can be shown through flowcharts to show their logic. Algorithms are used to detect any errors in your logic so that you will not have to correct the logic whilst you are programming.
 ### Programming an Application
 There are several steps when programing an application:
 #### 1. Getting the idea and requirements of the application
