@@ -38,7 +38,13 @@ Event-driven paradigms are a way of programing which focus on events which are b
 All three types of paradigms use variables in different ways. Event-driven paradigms use variables to figure out when an event listener should be activated such as an event listener waiting for a variable to get to a certain value before triggering. Object-orientated paradigms use variables in objects and classes to values that can be accessed by each other as long they have the correct access. Procedural paradigms can use procedures to do calculations on variables which will be used later on in the code. 
 #### Loops
 All three types of paradigms use loops in different ways. Event-driven paradigms use them in event listeners so that they can constantly keep checking if an event happens. Object-orientated paradigms use them in objects to repeat tasks until a condition is met. When procedural paradigms use loops it normally turns them into a procedure so that you can call it instead of having to constainly repeat your code.
+#### Procedure
+All three types of paradigms use procedurs in different ways. 
+Event-driven paradigms
+Object-orientated paradigms
+Procedural paradigms
 ### Debugging
+Debugging is the process of finding and fixing bugs inside of a programe. Bugs are either coding errors or logical errors inside of program that cause it to do unexpected things. There are several tools that can help with debugging which can be found as independent tools or as a part of an IDE(Integrated Development Environment). Some common debugging tools are breakpoint which can stop the program once it has reach a certain line of code so that the user can check the values of variables and can be resumed when user wants, 
 ## Professional Practice
 ###
 ## Computer System Architecture
