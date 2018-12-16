@@ -38,13 +38,22 @@ Event-driven paradigms are a way of programing which focus on events which are b
 All three types of paradigms use variables in different ways. Event-driven paradigms use variables to figure out when an event listener should be activated such as an event listener waiting for a variable to get to a certain value before triggering. Object-orientated paradigms use variables in objects and classes to values that can be accessed by each other as long they have the correct access. Procedural paradigms can use procedures to do calculations on variables which will be used later on in the code. 
 #### Loops
 All three types of paradigms use loops in different ways. Event-driven paradigms use them in event listeners so that they can constantly keep checking if an event happens. Object-orientated paradigms use them in objects to repeat tasks until a condition is met. When procedural paradigms use loops it normally turns them into a procedure so that you can call it instead of having to constainly repeat your code.
-#### Procedure
-All three types of paradigms use procedurs in different ways. 
-Event-driven paradigms
-Object-orientated paradigms
-Procedural paradigms
+#### Functions
+
+All three types of paradigms use function in different ways. Event-driven paradigms use functions for the event handlers as they will excuted a section of code when they are called. Object-orientated paradigms would use function inside of objects so that object can do differnt commands depending on what the program needs. Procedural paradigms would use function to reduce amount of code by having repeat code put into function which can be called.
+
+
 ### Debugging
-Debugging is the process of finding and fixing bugs inside of a programe. Bugs are either coding errors or logical errors inside of program that cause it to do unexpected things. There are several tools that can help with debugging which can be found as independent tools or as a part of an IDE(Integrated Development Environment). Some common debugging tools are breakpoint which can stop the program once it has reach a certain line of code so that the user can check the values of variables and can be resumed when user wants, 
+
+Debugging is the process of finding and fixing bugs inside of a computer programe. Bugs are either coding errors or logical errors inside of program that cause it to do unexpected things.
+
+The usaly steps in debugging a program is:
+1. Discovering the Bug: Whilst a user is using the program they will accidently encounter a bug. They will then report details about the bug such what the bug did, the condition that the bug ocured in, the specifications of the pc that the bug ocured and what operating system they were using to the programmer   
+2. Recreate the Bug: The programmer would now try to recreat the bug by using the details that was giving to him by the user and once it has reocurs they will take a snapshot of the computer which will record the current state of it which will include thing like the bariables, file registers.
+3. Analysing of the Snapshot: The programmer will search through the snapshot to find any iregular data that may of lead to bug happening.
+4. Correcting the bug: Using the knowledge gained from the snapshot the programmer will correct the bug in the code and will then record the bug and the cause of it into bug report which can be used to help programmer later in the project.   
+
+There are several tools that can help with debugging which can be found as a part of an IDE(Integrated Development Environment). Some common debugging tools in an IDE are breakpoint which can stop the program once it has reach a certain line of code so that the user can check the values of variables and can be resumed when user wants, snapshot which will record the current state of the computer and program so that it can be viewed later on and a syntax highlighter which will detect when a syntax error has ocured that could possible stop the code from running and will normaly give a suggestion for the correct syntax. Syntax highlighter can be found for many differnt programming lanuages.  
 ## Professional Practice
 ###
 ## Computer System Architecture
